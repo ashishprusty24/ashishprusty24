@@ -32,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishprusty24&" alt="ashishprusty24" /></p>
 
+<img alt="Ashish Kumar Prusty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashishprusty24&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+  </div>
