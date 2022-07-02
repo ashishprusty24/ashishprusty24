@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
-**ashishprusty24/ashishprusty24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Ashish Kumar Prusty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishprusty24&label=Profile%20views&color=0e75b6&style=flat" alt="ashishprusty24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishprusty24" alt="ashishprusty24" /></a> </p>
 
@@ -31,6 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishprusty24&show_icons=true&locale=en" alt="ashishprusty24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishprusty24&" alt="ashishprusty24" /></p>
+
+
+
 
 <img alt="Ashish Kumar Prusty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashishprusty24&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
   </div>
