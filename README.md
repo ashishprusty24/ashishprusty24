@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
-- 👨‍💻 All of my projects are available at [ashish-kumar-prusty-portfolio.vercel.app](ashish-kumar-prusty-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](ashish-kumar-prusty-portfolio.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript, React JS, Redux JS**
 
 - 📫 How to reach me **ashisprusty71@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u6EUR0eNf1Agjo1tQF2CCfo_l3bKfIwX/view](https://drive.google.com/file/d/1u6EUR0eNf1Agjo1tQF2CCfo_l3bKfIwX/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u6EUR0eNf1Agjo1tQF2CCfo_l3bKfIwX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishprusty24&" alt="ashishprusty24" /></p>
 
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishprusty24&show_icons=true&locale=en&layout=compact" alt="ashishprusty24" /></p>
 
 <img alt="Ashish Kumar Prusty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashishprusty24&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
   </div>
