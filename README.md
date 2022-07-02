@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishprusty24&" alt="ashishprusty24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishprusty24&show_icons=true&locale=en" alt="ashishprusty24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishprusty24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=en" alt="ashishprusty24" /></p>
 
 <p align="center">
     <a href="https://github.com/Akshit3010/github-readme-stats"><img alt="Akshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshit3010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
