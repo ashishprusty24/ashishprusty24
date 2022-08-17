@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashisprusty71@gmail.com**
 
-- 📄Know about my experiences [https://drive.google.com/file/d/1potZP0rjmDrIX72EzrvopWyInrNH_6g1/view?usp=sharing](https://drive.google.com/file/d/1potZP0rjmDrIX72EzrvopWyInrNH_6g1/view?usp=sharing)
+- 📄Know about my experiences [Resume](https://drive.google.com/file/d/1potZP0rjmDrIX72EzrvopWyInrNH_6g1/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
