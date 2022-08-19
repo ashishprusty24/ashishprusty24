@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishprusty24" alt="ashishprusty24" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 <p align = "left">
-- 🌱 I’m currently learning ** Full Stack Web Development(MERN) **
+- 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
 - 👨‍💻 All of my projects are available at [Portfolio](ashish-kumar-prusty-portfolio.vercel.app)
 
