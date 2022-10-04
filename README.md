@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Prusty</h1>
 <h2 align="center">A passionate full stack developer from India</h2>
 
+<h3>Introduction : </h3>
+<p align="left">Passinated Full-Stack Web-Developer having knowledge of Html,Css,Javascript, Redux and MERN Technologies. Completed Many hands-on Real time Projects including colabrative and Individual Project</p>
+<h3>Objective</h3>
+<p align="left">Complex problem-solver with analytical and driven mindset.
+Dedicated to achieving demanding development objectives
+according to tight schedules while producing impeccable code.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishprusty24&label=Profile%20views&color=0e75b6&style=flat" alt="ashishprusty24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishprusty24" alt="ashishprusty24" /></a> </p>
